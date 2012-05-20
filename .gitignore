@@ -1,0 +1,14 @@
+.cache
+.project
+.classpath
+.settings/
+
+.svn/
+
+bin/
+target/
+logs/
+log/
+
+release.properties
+pom.xml.releaseBackup
